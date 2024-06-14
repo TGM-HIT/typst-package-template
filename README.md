@@ -32,8 +32,7 @@ These instructions will get you a copy of the project up and running on the typs
 ```typ
 #import "@preview/my-package:0.1.0": *
 
-#show: my-show-rule.with()
-#my-func()
+#id[Hello World]
 ```
 
 ### Installation
